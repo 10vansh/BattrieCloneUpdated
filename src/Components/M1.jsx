@@ -79,7 +79,6 @@ function M1() {
                                 <li><button onClick={() => handleChangeImage(Scooty)} className="w-8 h-8 rounded-full bg-[#A0CABB] mx-4  border-gray-300 border-[1px] enabled:hover:border-black"></button></li>
                                 <li><button onClick={() => handleChangeImage(Grey)} className="w-8 h-8 rounded-full bg-[#707485] mx-4  border-gray-300 border-[1px] enabled:hover:border-black"></button></li>
                                 <li><button onClick={() => handleChangeImage(Dblue)} className="w-8 h-8 rounded-full bg-[#233A78] mx-4  border-gray-300 border-[1px] enabled:hover:border-black"></button></li>
-                                <li><button onClick={() => handleChangeImage(Scooty)} className="w-8 h-8 rounded-full bg-[#93D4DE] mx-4  border-gray-300 border-[1px] enabled:hover:border-black"></button></li>
                                 <li><button onClick={() => handleChangeImage(Lblue)} className="w-8 h-8 rounded-full bg-[#C5DBF4] mx-4  border-gray-300 border-[1px] enabled:hover:border-black"></button></li>
                                 <li><button onClick={() => handleChangeImage(Red)} className="w-8 h-8 rounded-full bg-[#B42025] mx-4  border-gray-300 border-[1px] enabled:hover:border-black"></button></li>
                                 <li><button onClick={() => handleChangeImage(White)} className="w-8 h-8 rounded-full bg-[#ffffff] mx-4  border-gray-300 border-[1px] enabled:hover:border-black"></button></li>
