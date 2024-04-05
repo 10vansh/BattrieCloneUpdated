@@ -1,9 +1,9 @@
 import React from 'react'
-import insta from '/Users/Vansh/OneDrive/Desktop/BattireClone/BattireClone/src/assets/Images/insta.png'
-import facebook from '/Users/Vansh/OneDrive/Desktop/BattireClone/BattireClone/src/assets/Images/facebook.png'
-import twitter from '/Users/Vansh/OneDrive/Desktop/BattireClone/BattireClone/src/assets/Images/twitter.png'
-import linkedin from '/Users/Vansh/OneDrive/Desktop/BattireClone/BattireClone/src/assets/Images/linkedin.png'
-import yt from '/Users/Vansh/OneDrive/Desktop/BattireClone/BattireClone/src/assets/Images/yt.png'
+import insta from '/src/assets/Images/insta.png'
+import facebook from '/src/assets/Images/facebook.png'
+import twitter from '/src/assets/Images/twitter.png'
+import linkedin from '/src/assets/Images/linkedin.png'
+import yt from '/src/assets/Images/yt.png'
 
 
 
