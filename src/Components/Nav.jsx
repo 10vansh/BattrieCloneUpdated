@@ -1,5 +1,5 @@
 import React from 'react'
-import BattReLogo from '/Users/Vansh/OneDrive/Desktop/BattireClone/BattireClone/src/assets/Images/BattReLogo.png'
+import BattReLogo from '/src/assets/Images/BattReLogo.png'
 
 
 function Nav() {
